@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://github.com/sebaspascali/api-aguacates.git',
+    baseUrl: 'https://github.com/sebaspascali/extrayendo-datos-api.git',
   },
 }
