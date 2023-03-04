@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://sebaspascali.github.io/info-api.git',
+    baseUrl: 'https://github.com/sebaspascali/info-api.git',
   },
 }

@@ -1,4 +1,4 @@
-{ "homepage": "https://sebaspascali.github.io/info-api.git",
+{ "homepage": "https://github.com/sebaspascali/info-api.git",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
