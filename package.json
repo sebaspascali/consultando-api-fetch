@@ -1,4 +1,4 @@
-{ "homepage": "https://github.com/sebaspascali/aguacates-api.git",
+{ "homepage": "https://sebaspascali.github.io/info-api.git",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
